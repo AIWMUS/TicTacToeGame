@@ -1,0 +1,4 @@
+@echo off
+echo Run love.js
+cd love.js-master
+python -m SimpleHTTPServer 8000
